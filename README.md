@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=BangDori&fontAlign=80&fontAlignY=40&color=gradient)
 
+<div align="center">
+  <h3>🎊 Thank you for visiting 🎊</h3>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangDori&count_bg=%23EEEE62&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visites&edge_flat=false" />
+</div>
+
+<br />
+
 <h3 align="center">🎢 Current 🎢</h3>
 <p align="center">
   <span>2018.03 ~ 영남대학교 컴퓨터공학과 재학</span>
@@ -24,9 +31,7 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white" />
   <img src="https://img.shields.io/badge/Parcel-DC521F?style=flat-square&logo=Parcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white" />
-  
-  <br />
-</p>
+  </p>
 
 <br />
 
