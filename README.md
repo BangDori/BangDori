@@ -42,5 +42,5 @@
 <br />
 
 <p align="center">
-  <a href="https://bangdori.notion.site/2b9cde0b86c840daad54b365e7020a69?v=6ae46bf2fe294884871560b745973f91"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
+  <a href="https://bangdori.notion.site/BangDori-05c6d68863ae4484ad28b0ec27b1b50a"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
 </p>
