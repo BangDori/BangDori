@@ -16,31 +16,7 @@
 
 <br />
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
-</p>
-
-<br />
-
 <h3 align="center">⌛ Contact ⌛</h3>
-<p align="center">
-  <a href="https://www.instagram.com/joooon2_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:21812102@yu.ac.kr"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iam@BangDori.com"/></a>
-</p>
-
-<br />
-
 <p align="center">
   <a href="https://bangdori.notion.site/BangDori-05c6d68863ae4484ad28b0ec27b1b50a"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
 </p>
