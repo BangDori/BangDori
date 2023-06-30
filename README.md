@@ -6,6 +6,8 @@
 </div>
 
 <br />
+<br />
+<br />
 
 <h3 align="center">🎢 Current 🎢</h3>
 <p align="center">
@@ -14,9 +16,9 @@
   <span>2023.04 ~ 멋쟁이 사자처럼 11기 활동</span>
 </p>
 
-<br />
-
 <h3 align="center">⌛ Contact ⌛</h3>
 <p align="center">
-  <a href="https://bangdori.notion.site/BangDori-05c6d68863ae4484ad28b0ec27b1b50a"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
+  <a href="https://bangdori.notion.site/BangDori-05c6d68863ae4484ad28b0ec27b1b50a">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" style="width: 64px" />
+  <a/>
 </p>
