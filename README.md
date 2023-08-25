@@ -15,3 +15,13 @@
   <br />
   <span>2023.04 ~ 멋쟁이 사자처럼 11기 활동</span>
 </p>
+
+<h3 align="center">⌛ Contact ⌛</h3>
+<p align="center">
+  <a href="https://bangdori.notion.site/BangDori-05c6d68863ae4484ad28b0ec27b1b50a">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" style="width: 32px" />
+  </a>
+  <a href="mailto:qudwns8865@naver.com">
+    <img src="http://wiki.hash.kr/images/2/22/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%A9%94%EC%9D%BC_%EB%A1%9C%EA%B3%A0.png" style="width: 32px" />
+  </a>
+</p>
