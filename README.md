@@ -2,6 +2,7 @@
 
 <ul>
   <li>React Query Study<sup><a href="https://github.com/BangDori/react-query-course">↗</a></sup> <sub>(2023.02 ~</sub></li>  
+  <li>Coding Test Study<sup><a href="https://github.com/BangDori/coding-test-study">↗</a></sup> <sub>(2023.02 ~</sub></li>
   <li>TypeScript Study<sup><a href="https://github.com/BangDori/woowa-typescript">↗</a></sup> <sub>(2022.12 ~</sub></li>
 </ul>
 
@@ -34,8 +35,3 @@
 <ul>
   <li>mapbox-gl-js <sub>(<a href="https://github.com/mapbox/mapbox-gl-js/issues/12693">#12693</a>, <a href="https://github.com/mapbox/mapbox-gl-js/issues/12891">#12891</a>)</sub> </li>
 </ul>
-
-<h3 align="center">⌛ Contact ⌛</h3>
-<p align="center">
-  <a href="https://open.kakao.com/o/sKARiCDf">카카오톡</a>
-</p>
