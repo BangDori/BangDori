@@ -2,7 +2,6 @@
 
 <ul>
   <li>Pennyway Project<sup><a href="https://github.com/CollaBu/pennyway-client-webview">↗</a></sup> <sub>(2024.03 ~</sub></li>
-  <li>React Query Study<sup><a href="https://github.com/BangDori/react-query-course">↗</a></sup> <sub>(2023.02 ~</sub></li>  
   <li>Coding Test Study<sup><a href="https://github.com/BangDori/coding-test-study">↗</a></sup> <sub>(2023.02 ~</sub></li>
   <li>TypeScript Study<sup><a href="https://github.com/BangDori/woowa-typescript">↗</a></sup> <sub>(2022.12 ~</sub></li>
 </ul>
