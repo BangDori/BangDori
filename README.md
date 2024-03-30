@@ -35,3 +35,9 @@
 <ul>
   <li>mapbox-gl-js <sub>(<a href="https://github.com/mapbox/mapbox-gl-js/issues/12693">#12693</a>, <a href="https://github.com/mapbox/mapbox-gl-js/issues/12891">#12891</a>)</sub> </li>
 </ul>
+
+#### Books
+
+<ul>
+  <li>Woowahan Typescript - 예제코드 오류 수정<sup><a href="https://github.com/woowa-typescript/woowahan-typescript-with-react-example-code/pull/17">↗</a></sup></li>  
+</ul>
