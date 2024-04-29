@@ -1,6 +1,7 @@
 #### What you are currently doing
 
 <ul>
+  <li>NextJS Course<sup><a href="https://github.com/BangDori/nextJS-course">↗</a></sup> <sub>(2024.04 ~</sub></li>
   <li>Pennyway Project<sup><a href="https://github.com/CollaBu/pennyway-client-webview">↗</a></sup> <sub>(2024.03 ~</sub></li>
 </ul>
 
