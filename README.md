@@ -33,7 +33,8 @@
 #### OpenSource
 
 <ul>
-  <li>mapbox-gl-js <sub>(<a href="https://github.com/mapbox/mapbox-gl-js/issues/12693">#12693</a>, <a href="https://github.com/mapbox/mapbox-gl-js/issues/12891">#12891</a>)</sub> </li>
+  <li>svg-sprite <sub><a href="https://github.com/svg-sprite/svg-sprite/issues/906">#906</a></sub></li>
+  <li>mapbox-gl-js <sub><a href="https://github.com/mapbox/mapbox-gl-js/issues/12693">#12693</a>, <a href="https://github.com/mapbox/mapbox-gl-js/issues/12891">#12891</a></sub> </li>
 </ul>
 
 #### Books
