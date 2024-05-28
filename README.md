@@ -15,7 +15,7 @@
 #### Side Project
 
 <ul>
-  <li>NPM react-iphone-layout 배포<sup><a href="https://www.npmjs.com/package/react-iphone-layout">↗</a></sup></li>
+  <li>react-iphone-layout library<sup><a href="https://www.npmjs.com/package/react-iphone-layout">↗</a></sup> <sub>(2023.05 ~ 현재)</sub></li>
   <li>TodoList<sup><a href="https://github.com/BangDori/TodoList">↗</a></sup> <sub>(2023.02 ~ 2023.03)</sub></li>
   <li>AngryBird Avoidance Game<sup><a href="https://github.com/BangDori/AngryBird-Avoidance-Game">↗</a></sup> <sub>(2022.12 ~ 2023.01)</sub></li>
 </ul>
