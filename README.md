@@ -15,7 +15,6 @@
 #### Side Project
 
 <ul>
-  <li>react-iphone-layout library<sup><a href="https://www.npmjs.com/package/react-iphone-layout">↗</a></sup> <sub>(2023.05 ~ 현재)</sub></li>
   <li>TodoList<sup><a href="https://github.com/BangDori/TodoList">↗</a></sup> <sub>(2023.02 ~ 2023.03)</sub></li>
   <li>AngryBird Avoidance Game<sup><a href="https://github.com/BangDori/AngryBird-Avoidance-Game">↗</a></sup> <sub>(2022.12 ~ 2023.01)</sub></li>
 </ul>
@@ -30,12 +29,5 @@
 #### OpenSource
 
 <ul>
-  <li>svg-sprite issue <sub><a href="https://github.com/svg-sprite/svg-sprite/issues/906">#906</a></sub></li>
-  <li>mapbox-gl-js issue <sub><a href="https://github.com/mapbox/mapbox-gl-js/issues/12693">#12693</a>, <a href="https://github.com/mapbox/mapbox-gl-js/issues/12891">#12891</a></sub> </li>
-</ul>
-
-#### Books
-
-<ul>
-  <li>Woowahan Typescript - 예제코드 오류 수정<sup><a href="https://github.com/woowa-typescript/woowahan-typescript-with-react-example-code/pull/17">↗</a></sup></li>  
+  <li>react-iphone-layout<sup><a href="https://www.npmjs.com/package/react-iphone-layout">↗</a></sup> <sub>(2023.05 ~ 현재)</sub></li>
 </ul>
