@@ -29,5 +29,5 @@
 #### OpenSource
 
 <ul>
-  <li>react-iphone-layout<sup><a href="https://www.npmjs.com/package/react-iphone-layout">↗</a></sup> <sub>(2023.05 ~ 현재)</sub></li>
+  <li>react-iphone-layout<sup><a href="https://www.npmjs.com/package/react-iphone-layout">↗</a></sup></li>
 </ul>
