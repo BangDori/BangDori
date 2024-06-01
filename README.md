@@ -7,7 +7,7 @@
 #### Team Project
 
 <ul>
-  <li>Pennyway<sup><a href="https://github.com/CollaBu/pennyway-client-webview">↗</a></sup> <sub>(2024.03 ~ 현재)</sub></li>
+  <li>Pennyway<sup><a href="https://github.com/CollaBu/pennyway-client-webview">↗</a></sup> <sub>(2024.03 ~ 2024.05)</sub></li>
   <li>RooTrip<sup><a href="https://github.com/BangDori/RooTrip-Front">↗</a></sup> / Capstone project <sub>(2023.03 ~ 2023.11)</sub></li>
   <li>Echo<sup><a href="https://github.com/BangDori/Echo-FE">↗</a></sup> / LikeLion 11th hackathon <sub>(2023.07 ~ 2023.08)</sub></li>  
 </ul>
