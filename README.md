@@ -1,3 +1,5 @@
+
+
 ### Expereince
 
 <ul>
@@ -31,3 +33,7 @@
 <ul>
   <li>react-iphone-layout<sup><a href="https://www.npmjs.com/package/react-iphone-layout">↗</a></sup></li>
 </ul>
+
+<div>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangDori&count_bg=%2379C83D&title_bg=%231E1E1E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
