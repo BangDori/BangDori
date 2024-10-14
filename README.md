@@ -1,14 +1,7 @@
-
-
-### Expereince
-
-<ul>
-  <li>Mere / 영남대학교 재학생 스타트업 프론트엔드 개발자<sub>(2023.09 ~ 2024.01)</sub></li>
-</ul>
-
 #### Team Project
 
 <ul>
+  <li>Pennyway nextjs<sup><a href="https://github.com/collaBu/pennyway-client-webview-next">↗</a></sup> <sub>(2024.10 ~ </sub></li>
   <li>Pennyway<sup><a href="https://github.com/CollaBu/pennyway-client-webview">↗</a></sup> <sub>(2024.03 ~ 2024.05)</sub></li>
   <li>RooTrip<sup><a href="https://github.com/BangDori/RooTrip-Front">↗</a></sup> / Capstone project <sub>(2023.03 ~ 2023.11)</sub></li>
   <li>Echo<sup><a href="https://github.com/BangDori/Echo-FE">↗</a></sup> / LikeLion 11th hackathon <sub>(2023.07 ~ 2023.08)</sub></li>  
@@ -33,7 +26,3 @@
 <ul>
   <li>react-iphone-layout<sup><a href="https://www.npmjs.com/package/react-iphone-layout">↗</a></sup></li>
 </ul>
-
-<div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangDori&count_bg=%2379C83D&title_bg=%231E1E1E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</div>
