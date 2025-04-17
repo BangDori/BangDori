@@ -18,6 +18,12 @@
   <li><a href="https://github.com/BangDori/LIKELION-11th">LikeLion 11th</a> <sub>(2023.03 ~ 2023.11)</sub></li>
 </ul>
 
+#### Study
+
+<ul>
+  <li>이상한 실험을 많이하는.. <a href="https://github.com/CorTorE/Javascript-Laboratory/issues">JavaScript Laboratory</a> <sub>(2025.04 ~</sub></li>
+</ul>
+
 #### OpenSource
 
 <ul>
@@ -28,4 +34,4 @@
 
 ---
 
-<a href="https://angrybird-avoidance.netlify.app/">AngryBird Avoidance Game</a>
+- <a href="https://angrybird-avoidance.netlify.app/">AngryBird Avoidance Game</a>
