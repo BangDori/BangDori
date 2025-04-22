@@ -1,3 +1,8 @@
+#### 이상하고 재미있는 실험실
+
+- [브라우저의 각 탭들 간 상호작용을 통해 사용자 경험을 개선할 수 있을까?](https://github.com/CorTorE/js-lab/issues/1)
+
+
 #### Experience
 
 <ul>
@@ -16,12 +21,6 @@
 
 <ul>
   <li><a href="https://github.com/BangDori/LIKELION-11th">LikeLion 11th</a> <sub>(2023.03 ~ 2023.11)</sub></li>
-</ul>
-
-#### Study
-
-<ul>
-  <li>이상한 실험을 많이하는.. <a href="https://github.com/CorTorE/Javascript-Laboratory/issues">JavaScript Laboratory</a> <sub>(2025.04 ~</sub></li>
 </ul>
 
 #### OpenSource
