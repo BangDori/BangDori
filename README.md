@@ -1,8 +1,8 @@
 #### 이상하고 재미있는 실험실
 
+- [JavaScript Array 동작 원리에 대해](https://github.com/CorTorE/js-lab/issues/12)
 - [자바스크립트의 Call by Value와 참조 타입 전달 방식 분석](https://github.com/CorTorE/js-lab/issues/3)
 - [브라우저의 각 탭들 간 상호작용을 통해 사용자 경험을 개선할 수 있을까?](https://github.com/CorTorE/js-lab/issues/1)
-
 
 #### Experience
 
