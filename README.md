@@ -10,20 +10,6 @@
   <li><a href="https://github.com/dalliza">Sponjy</a> <sub>주식회사 말달리자 (2024.06 ~ present)</sub></li>
 </ul>
 
-#### Team Project
-
-<ul>
-  <li><a href="https://github.com/CollaBu/pennyway-client-webview">Pennyway</a> <sub>Side Project (2024.03 ~ 2024.05)</sub></li>
-  <li><a href="https://github.com/BangDori/RooTrip-Front">RooTrip</a> <sub>Capstone project (2023.03 ~ 2023.11)</sub></li>
-  <li><a href="https://github.com/BangDori/Echo-FE">Echo</a> <sub>LikeLion 11th hackathon (2023.07 ~ 2023.08)</sub></li>  
-</ul>
-
-#### Activity
-
-<ul>
-  <li><a href="https://github.com/BangDori/LIKELION-11th">LikeLion 11th</a> <sub>(2023.03 ~ 2023.11)</sub></li>
-</ul>
-
 #### OpenSource
 
 <ul>
@@ -31,7 +17,3 @@
   <li>react-native-ota-hot-update (<a href="https://github.com/vantuan88291/react-native-ota-hot-update/pull/57">#57</a>, <a href="https://github.com/vantuan88291/react-native-ota-hot-update/pull/60">#60</a>, <a href="https://github.com/vantuan88291/react-native-ota-hot-update/pull/68">#68</a>)
   <li>react-iphone-layout (<a href="https://www.npmjs.com/package/react-iphone-layout">npm</a>)</li>
 </ul>
-
----
-
-- <a href="https://angrybird-avoidance.netlify.app/">AngryBird Avoidance Game</a>
