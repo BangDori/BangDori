@@ -8,7 +8,7 @@
 #### Experience
 
 <ul>
-  <li><a href="https://github.com/dalliza">Sponjy</a> <sub>주식회사 말달리자 (2024.06 ~ present)</sub></li>
+  <li><a href="https://github.com/dalliza">Sponjy</a> <sub>주식회사 말달리자 (2024.06 ~ 2025.07)</sub></li>
 </ul>
 
 #### OpenSource
