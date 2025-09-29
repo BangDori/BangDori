@@ -1,14 +1,8 @@
-#### 이상하고 재미있는 실험실
-
-- [requestAnimationFrame의 렌더링 동작 및 이벤트 루프와의 관계 분석](https://github.com/CorTorE/js-lab/pull/17)
-- [JavaScript Array 동작 원리에 대해](https://github.com/CorTorE/js-lab/issues/12)
-- [자바스크립트의 Call by Value와 참조 타입 전달 방식 분석](https://github.com/CorTorE/js-lab/pull/7)
-- [브라우저의 각 탭들 간 상호작용을 통해 사용자 경험을 개선할 수 있을까?](https://github.com/CorTorE/js-lab/pull/2)
-
 #### Experience
 
 <ul>
-  <li><a href="https://github.com/dalliza">Sponjy</a> <sub>주식회사 말달리자 (2024.06 ~ 2025.07)</sub></li>
+  <li><a href="https://creatrip.com/en">Creatrip</a> <sub>크리에이트립 Frontend Engineer (2025.09 ~ )</sub></li>
+  <li><a href="https://sponjy.com/">Sponjy</a> <sub>주식회사 말달리자 Frontend Developer (2024.06 ~ 2025.07)</sub></li>
 </ul>
 
 #### OpenSource
