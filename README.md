@@ -15,6 +15,7 @@
 #### OpenSource
 
 <ul>
+  <li>vercel/ai (<a href="https://github.com/vercel/ai/pull/10371">#10371</a>)</li>
   <li>anthropics/claude-code-action (<a href="https://github.com/anthropics/claude-code-action/pull/627">#627</a>)</li>
   <li>react-native-kakao (<a href="https://github.com/mym0404/react-native-kakao/pull/52">#52</a>)</li>
   <li>react-native-ota-hot-update (<a href="https://github.com/vantuan88291/react-native-ota-hot-update/pull/57">#57</a>, <a href="https://github.com/vantuan88291/react-native-ota-hot-update/pull/60">#60</a>, <a href="https://github.com/vantuan88291/react-native-ota-hot-update/pull/68">#68</a>)
