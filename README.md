@@ -8,7 +8,7 @@
 #### Projects
 
 <ul>
-  <li><a href="https://github.com/BangDori/prowl">Prowl</a> <sub>A macOS menubar productivity app with an AI assistant that knows your tasks and memory</sub></li>
+  <li><a href="https://github.com/BangDori/prowl">Prowl</a> <sub>A macOS menubar productivity app with an AI assistant that knows your tasks and memory (2026.01 ~ )</sub></li>
 </ul>
 
 #### Tools
