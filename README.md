@@ -5,6 +5,12 @@
   <li><a href="https://sponjy.com/">Sponjy</a> <sub>주식회사 말달리자 Frontend Developer (2024.06 ~ 2025.07)</sub></li>
 </ul>
 
+#### Projects
+
+<ul>
+  <li><a href="https://github.com/BangDori/prowl">Prowl</a> <sub>A macOS menubar productivity app with an AI assistant that knows your tasks and memory</sub></li>
+</ul>
+
 #### Tools
 
 <ul>
