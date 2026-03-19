@@ -14,6 +14,7 @@
 #### Tools
 
 <ul>
+  <li>slack html preview (<a href="https://github.com/BangDori/slack-html-preview">github</a>)</li>
   <li>issue cleanup actions (<a href="https://github.com/marketplace/actions/issue-cleanup">marketplace</a>)</li>
   <li>react iphone layout (<a href="https://www.npmjs.com/package/react-iphone-layout">npm</a>)</li>
 </ul>
